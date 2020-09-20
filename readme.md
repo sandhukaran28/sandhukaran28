@@ -1,4 +1,4 @@
-### Hi there, I'm [Karan!](https://sandhukaran28.github.io) 👋
+### Hi there, 👋
 
 <br />
 
