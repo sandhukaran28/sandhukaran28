@@ -7,6 +7,7 @@ Hi, I'm Karan, a passionate Android Developer and competitive coder.
 
 - 🔭 I'm Currently Persuing Btech in CSE
 - 🌱 I’m currently learning Android Development
+<hr>
 
 **Languages and Tools:**  
 
