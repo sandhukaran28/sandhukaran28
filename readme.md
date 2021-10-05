@@ -17,7 +17,6 @@ Hi, I'm Karan, a passionate Android Developer and competitive coder.
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code> 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jquery/jquery.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code> 
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/mongodb.png"></code> 
 <a>
   <hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhukaran28&show_icons=true&include_all_commits=true&theme=radical" alt="Karan's github stats" />
