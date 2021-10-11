@@ -2,10 +2,10 @@
 
 <br />
 
-Hi, I'm Karan, a passionate Android Developer and competitive coder.
+Hi, I'm Karan, a passionate Developer and competitive coder.
 
 - 🔭 I'm Currently Persuing Btech in CSE
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently polishing my web dev skills
 <hr>
 
 **Languages and Tools:**  
