@@ -20,6 +20,14 @@ Hi, I'm Karan, a passionate Developer and competitive coder.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhukaran28&label=Profile%20views&color=0e75b6&style=flat" alt="sandhukaran28" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/karan-sandhu28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karan Sandhu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sandhukaran28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Karan Sandhu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sandhukaran2821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Karan Sandhu" height="30" width="40" /></a>
+<a href="https://leetcode.com/sandhukaran28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Karan Sandhu" height="30" width="40" /></a>
+</p>
+
 
 
 </p>
