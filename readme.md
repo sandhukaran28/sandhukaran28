@@ -4,8 +4,6 @@
 
  I'm Karan, a passionate Developer and competitive coder.
 
-- 🔭 I'm Currently Persuing Btech in CSE
-- 🌱 I’m currently polishing my web dev skills
 <hr>
 
 **Languages and Tools:**  
