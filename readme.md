@@ -13,7 +13,6 @@ I love building high-performance, user-centric applications — from eCommerce p
 **Backend**: Node.js, Express.js, Firebase, SQL, MongoDB, Java, C#  
 **Dev Tools & Platforms**: Git, Docker, AWS, Postman, Vercel, Figma
 
----
 
 ### ⚒️ Languages and Tools
 
@@ -62,15 +61,11 @@ I love building high-performance, user-centric applications — from eCommerce p
   </a>
 </p>
 
----
 
 ### 🤝 Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/karan-sandhu28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karan Sandhu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sandhukaran28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Karan Sandhu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sandhukaran2821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Karan Sandhu" height="30" width="40" /></a>
-<a href="https://leetcode.com/sandhukaran28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Karan Sandhu" height="30" width="40" /></a>
 </p>
 
 </p>
