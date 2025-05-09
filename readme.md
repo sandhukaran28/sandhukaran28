@@ -8,13 +8,15 @@ I love building high-performance, user-centric applications — from eCommerce p
 <hr/>
 
 ### 💡 What I work with:
+
 **Frontend**: ReactJS, Angular, React Native, TypeScript, HTML, CSS, JavaScript  
 **Backend**: Node.js, Express.js, Firebase, SQL, MongoDB, Java, C#  
-**Dev Tools & Platforms**: Git, Docker, AWS, Postman, Vercel, Figma  
+**Dev Tools & Platforms**: Git, Docker, AWS, Postman, Vercel, Figma
 
 ---
 
-### ⚒️ Languages and Tools  
+### ⚒️ Languages and Tools
+
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -60,15 +62,10 @@ I love building high-performance, user-centric applications — from eCommerce p
   </a>
 </p>
 
-
 ---
 
-### 📈 GitHub Stats
+### 🤝 Connect with me
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhukaran28&label=Profile%20views&color=0e75b6&style=flat" alt="sandhukaran28" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karan-sandhu28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karan Sandhu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sandhukaran28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Karan Sandhu" height="30" width="40" /></a>
@@ -76,9 +73,11 @@ I love building high-performance, user-centric applications — from eCommerce p
 <a href="https://leetcode.com/sandhukaran28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Karan Sandhu" height="30" width="40" /></a>
 </p>
 
-
-
 </p>
+
+---
+
+### 📈 GitHub Stats
 
 <table width="100%">
   <tr>
@@ -91,4 +90,3 @@ I love building high-performance, user-centric applications — from eCommerce p
   </tr>
   </tr>
  <table>
-
