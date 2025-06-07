@@ -9,7 +9,7 @@ I love building high-performance, user-centric applications — from eCommerce p
 
 ### 💡 What I work with:
 
-**Frontend**: ReactJS, Angular, React Native, TypeScript, HTML, CSS, JavaScript  
+**Frontend**: ReactJS, NextJS, Angular, React Native, TypeScript, HTML, CSS, JavaScript  
 **Backend**: Node.js, Express.js, Firebase, SQL, MongoDB, Java, C#  
 **Dev Tools & Platforms**: Git, Docker, AWS, Postman, Vercel, Figma
 
