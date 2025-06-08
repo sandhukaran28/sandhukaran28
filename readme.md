@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Karan Sandhu
+### Hi there 👋, I'm Karan
 
 <br/>
 
