@@ -58,17 +58,15 @@ My work includes building **cloud-native solutions on AWS**, integrating **API-d
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandhukaran28&show_icons=true&hide_border=true&theme=onedark"/>
     </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhukaran28&layout=compact&hide_border=true&theme=onedark"/>
+      <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhukaran28&theme=dracula"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhukaran28&theme=dracula"/>
+    <td colspan="2">
+      <img height="180em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhukaran28&theme=dracula"/>
     </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhukaran28&theme=dracula"/>
-    </td>
+
   </tr>
 </table>
 
